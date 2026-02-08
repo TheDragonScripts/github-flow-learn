@@ -1,0 +1,11 @@
+# ===============================
+# CODEOWNERS
+# ===============================
+# Format:
+# <path>    <owner(s)>
+# The last rule that matches wins.
+
+# -------------------------------
+# Repo owner
+# -------------------------------
+*   @TheDragonScripts

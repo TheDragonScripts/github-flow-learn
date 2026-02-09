@@ -1,1 +1,1 @@
-This is a shared file with an extension now
+This is a shared file touched by conflict branch

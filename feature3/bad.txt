@@ -1,1 +1,1 @@
-Bad content in the bad file
+Good content in the bad file
